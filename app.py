@@ -1,6 +1,6 @@
 print("Hello from Jenkins!")
 print("revised file")
-print("Hari Hari bol")
+print("SEAP")
 print("Hare Krishna")
 print("Janmashtami is approaching ")
 print ("Wake up")
